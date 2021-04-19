@@ -2,7 +2,6 @@
 
 
 ### 🌱 I’m currently learning Web Development and Data Science
-### 😄 Pronouns: He/Him
 ### 💬 Ask me about Machine Learning
 
 
