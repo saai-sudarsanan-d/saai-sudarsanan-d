@@ -23,8 +23,7 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Saai " src="https://github-readme-stats.codestackr.vercel.app/api?username=saai-sudarsanan-d&show_icons=true&hide_border=true
-  count_private=true" />
+  <img align="left" alt="Saai" src="https://github-readme-stats-codestackr.vercel.app/api?username=saai-sudarsanan-d"/>
 
 </details>
 
