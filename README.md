@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[kaggle]:https://www.kaggle.com/saaisudarsanand
+[instagram]: https://www.instagram.com/god._sutta._kuruvi/
+[linkedin]: https://www.linkedin.com/in/saai-sudarsanan-d-4b2b0a194/
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
