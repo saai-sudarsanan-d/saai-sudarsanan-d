@@ -1,7 +1,7 @@
 ### Hi there 👋
 # I am Saai Sudarsanan...
 
-### 🌱 I’m currently learning Web Development and Data Science
+### 🌱 I’m currently learning Data Science
 ### 💬 Ask me about Machine Learning
 
 
